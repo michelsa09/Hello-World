@@ -1,8 +1,7 @@
 # My First Repository
-This is my first repository and should be a good example of a README.md file. The idea of a repository like this is to provide a summary of a given project, the files used, programs written, and how to execute said program. Simply put, this is documentation.
-    This is a test
+This repository provides documentation for a group project I did in Introduction to Business Analytics. The data we chose to analyze and manipulate was a loan approval data set, we ran a series of tests to see if, within this dataset, there was any bias based on Equal Credit Opportunity Act (ECOA) that affected a personal ability to receive a loan.
 
-### Table of Contents
+## Table of Contents
 
  -[PROJECT TITLE](#Project-Title)  
  -[DESCRIPTION](#Description)  
@@ -11,10 +10,13 @@ This is my first repository and should be a good example of a README.md file. Th
  -[HOW TO RUN PROGRAM](#How-to-run-Program)  
  -[ADDITIONAL INFORMATION](#additional-information)  
  
-### Project Title
+## Project Title
+*Loan Approval Rates - Does the Data Indicate Illegal Biases?*
 
-### Description
+## Description
+In 1974, the Equal Credit Opportunity Act created legislation that forbade loan givers to leveraging attributes such as gender, age, marital status, and more in their decision to approve or deny a loan request. To search for these potential biases, we ran summary statistics, regressions, created visuals, and more based off of the different protected categories. All of these statistics were run through **Excel**.
 
-### Tools Used
+## Tools Used
 
-### Files Used
+
+## Files Used
