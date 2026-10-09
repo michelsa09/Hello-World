@@ -13,7 +13,8 @@ This repository provides documentation for a group project I did in Introduction
 ## Project Title
 *Loan Approval Rates - Does the Data Indicate Illegal Biases?*
 
-## Description `rgb(9, 105, 218)`
+## Description
+#0969DA
 In 1974, the Equal Credit Opportunity Act created legislation that forbade loan givers to leveraging attributes such as gender, age, marital status, and more in their decision to approve or deny a loan request. To search for these potential biases, we ran summary statistics, regressions, created visuals, and more based off of the different protected categories. All of these statistics were run through **Excel**.
 
 ## Tools Used
