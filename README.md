@@ -28,9 +28,9 @@ Charts and Graphs
 
 ## Files Used
 This project uses data from Kaggle uploaded by Amn Amine in 2026 and it is updated monthly. The original data contained 1000 rows and 11 columns.  
-We chose 250 random instances to fit the parameters of the given assignment.
-[Project Proposal](Project-Proposal.pdf)
-[Loan Approval Dataset](Loan-Approval-Group-Project.xlsx)
+We chose 250 random instances to fit the parameters of the given assignment.  
+[Project Proposal](ProjectProposal.pdf)  
+[Loan Approval Dataset](LoanApprovalGroupProject.xlsx)
 
 ## Additional Information
 My final grade on this project was **98.13%**
