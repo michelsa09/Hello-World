@@ -32,5 +32,5 @@ We chose 250 random instances to fit the parameters of the given assignment.
 [Kaggle Raw Data](https://www.kaggle.com/datasets/amineipad/loan-approval-dataset)  
 
 ## Additional Information
-My final grade on this project was **98.13%**
+My final grade on this project was **98.13%**  
 I completed the Foundation of Business Analytics course with a grade of **A**
