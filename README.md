@@ -1,4 +1,4 @@
-# My First Repository
+# Foundations of Business Analytics Class Project
 This repository provides documentation for a group project I did in Foundations of Business Analytics. The data we chose to analyze and manipulate was a loan approval data set, we ran a series of tests to see if, within this dataset, there was any bias based on Equal Credit Opportunity Act (ECOA) that affected a personal ability to receive a loan.
 
 ## Table of Contents
@@ -21,16 +21,15 @@ This program is very easy to run. Everything needed is provided in text or visua
 
 ## Tools Used
 The Excel Tools used for this project are as follows:  
-Descriptive Statistics  
-Regression  
+**Descriptive Statistics**  
+**Regression**  
 Pivot Tables  
 Charts and Graphs  
 
 ## Files Used
 This project uses data from Kaggle uploaded by Amn Amine in 2026 and it is updated monthly. The original data contained 1000 rows and 11 columns.  
 We chose 250 random instances to fit the parameters of the given assignment.  
-[Project Proposal](ProjectProposal.pdf)  
-[Loan Approval Dataset](LoanApprovalGroupProject.xlsx)
+[Kaggle Raw Data](https://www.kaggle.com/datasets/amineipad/loan-approval-dataset)  
 
 ## Additional Information
 My final grade on this project was **98.13%**
